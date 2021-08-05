@@ -10,6 +10,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
                     <Text text="integration"/>
+                    <Text text="integration and deploy"/>
                     </content>
 				</Page>
 			</pages>
